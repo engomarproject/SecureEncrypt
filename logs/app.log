@@ -1,0 +1,78 @@
+2026-02-20 14:14:48 - EncryptionTool - INFO - Operation: encrypt | Status: Success | Duration: 0.45s | IP: 127.0.0.1
+2026-02-20 17:42:07 - EncryptionTool - ERROR - خطأ في جلب الملفات: 400 The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/omar-encryption-project/firestore/indexes?create_composite=Cl9wcm9qZWN0cy9vbWFyLWVuY3J5cHRpb24tcHJvamVjdC9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvZW5jcnlwdGVkX2ZpbGVzL2luZGV4ZXMvXxABGgcKA3VpZBABGg4KCmNyZWF0ZWRfYXQQAhoMCghfX25hbWVfXxAC
+2026-02-20 17:42:12 - EncryptionTool - ERROR - خطأ في جلب الملفات: 400 The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/omar-encryption-project/firestore/indexes?create_composite=Cl9wcm9qZWN0cy9vbWFyLWVuY3J5cHRpb24tcHJvamVjdC9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvZW5jcnlwdGVkX2ZpbGVzL2luZGV4ZXMvXxABGgcKA3VpZBABGg4KCmNyZWF0ZWRfYXQQAhoMCghfX25hbWVfXxAC
+2026-02-20 17:42:13 - EncryptionTool - ERROR - خطأ في جلب الملفات: 400 The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/omar-encryption-project/firestore/indexes?create_composite=Cl9wcm9qZWN0cy9vbWFyLWVuY3J5cHRpb24tcHJvamVjdC9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvZW5jcnlwdGVkX2ZpbGVzL2luZGV4ZXMvXxABGgcKA3VpZBABGg4KCmNyZWF0ZWRfYXQQAhoMCghfX25hbWVfXxAC
+2026-02-20 17:43:43 - EncryptionTool - ERROR - خطأ في جلب الملفات: 400 The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/omar-encryption-project/firestore/indexes?create_composite=Cl9wcm9qZWN0cy9vbWFyLWVuY3J5cHRpb24tcHJvamVjdC9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvZW5jcnlwdGVkX2ZpbGVzL2luZGV4ZXMvXxABGgcKA3VpZBABGg4KCmNyZWF0ZWRfYXQQAhoMCghfX25hbWVfXxAC
+2026-02-20 17:43:43 - EncryptionTool - ERROR - خطأ في جلب الملفات: 400 The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/omar-encryption-project/firestore/indexes?create_composite=Cl9wcm9qZWN0cy9vbWFyLWVuY3J5cHRpb24tcHJvamVjdC9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvZW5jcnlwdGVkX2ZpbGVzL2luZGV4ZXMvXxABGgcKA3VpZBABGg4KCmNyZWF0ZWRfYXQQAhoMCghfX25hbWVfXxAC
+2026-02-20 17:43:59 - EncryptionTool - ERROR - خطأ في جلب الملفات: 400 The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/omar-encryption-project/firestore/indexes?create_composite=Cl9wcm9qZWN0cy9vbWFyLWVuY3J5cHRpb24tcHJvamVjdC9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvZW5jcnlwdGVkX2ZpbGVzL2luZGV4ZXMvXxABGgcKA3VpZBABGg4KCmNyZWF0ZWRfYXQQAhoMCghfX25hbWVfXxAC
+2026-02-20 17:44:00 - EncryptionTool - ERROR - خطأ في جلب الملفات: 400 The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/omar-encryption-project/firestore/indexes?create_composite=Cl9wcm9qZWN0cy9vbWFyLWVuY3J5cHRpb24tcHJvamVjdC9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvZW5jcnlwdGVkX2ZpbGVzL2luZGV4ZXMvXxABGgcKA3VpZBABGg4KCmNyZWF0ZWRfYXQQAhoMCghfX25hbWVfXxAC
+2026-02-20 17:44:08 - EncryptionTool - INFO - Operation: encrypt | Status: Success | Duration: 0.82s | IP: 127.0.0.1
+2026-02-20 17:58:46 - EncryptionTool - ERROR - خطأ في جلب الملفات: 400 The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/omar-encryption-project/firestore/indexes?create_composite=Cl9wcm9qZWN0cy9vbWFyLWVuY3J5cHRpb24tcHJvamVjdC9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvZW5jcnlwdGVkX2ZpbGVzL2luZGV4ZXMvXxABGgcKA3VpZBABGg4KCmNyZWF0ZWRfYXQQAhoMCghfX25hbWVfXxAC
+2026-02-20 17:58:48 - EncryptionTool - ERROR - خطأ في جلب الملفات: 400 The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/omar-encryption-project/firestore/indexes?create_composite=Cl9wcm9qZWN0cy9vbWFyLWVuY3J5cHRpb24tcHJvamVjdC9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvZW5jcnlwdGVkX2ZpbGVzL2luZGV4ZXMvXxABGgcKA3VpZBABGg4KCmNyZWF0ZWRfYXQQAhoMCghfX25hbWVfXxAC
+2026-02-20 18:19:41 - EncryptionTool - ERROR - خطأ في جلب الملفات: 400 The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/omar-encryption-project/firestore/indexes?create_composite=Cl9wcm9qZWN0cy9vbWFyLWVuY3J5cHRpb24tcHJvamVjdC9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvZW5jcnlwdGVkX2ZpbGVzL2luZGV4ZXMvXxABGgcKA3VpZBABGg4KCmNyZWF0ZWRfYXQQAhoMCghfX25hbWVfXxAC
+2026-02-20 18:19:42 - EncryptionTool - ERROR - خطأ في جلب الملفات: 400 The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/omar-encryption-project/firestore/indexes?create_composite=Cl9wcm9qZWN0cy9vbWFyLWVuY3J5cHRpb24tcHJvamVjdC9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvZW5jcnlwdGVkX2ZpbGVzL2luZGV4ZXMvXxABGgcKA3VpZBABGg4KCmNyZWF0ZWRfYXQQAhoMCghfX25hbWVfXxAC
+2026-02-20 18:20:03 - EncryptionTool - INFO - Operation: encrypt | Status: Success | Duration: 0.87s | IP: 127.0.0.1
+2026-02-20 18:37:19 - EncryptionTool - ERROR - خطأ في جلب السجل: 400 The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/omar-encryption-project/firestore/indexes?create_composite=Cl5wcm9qZWN0cy9vbWFyLWVuY3J5cHRpb24tcHJvamVjdC9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvb3BlcmF0aW9uX2xvZ3MvaW5kZXhlcy9fEAEaBwoDdWlkEAEaDQoJdGltZXN0YW1wEAIaDAoIX19uYW1lX18QAg
+2026-02-20 18:37:23 - EncryptionTool - ERROR - خطأ في جلب السجل: 400 The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/omar-encryption-project/firestore/indexes?create_composite=Cl5wcm9qZWN0cy9vbWFyLWVuY3J5cHRpb24tcHJvamVjdC9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvb3BlcmF0aW9uX2xvZ3MvaW5kZXhlcy9fEAEaBwoDdWlkEAEaDQoJdGltZXN0YW1wEAIaDAoIX19uYW1lX18QAg
+2026-02-20 18:37:23 - EncryptionTool - ERROR - خطأ في جلب السجل: 400 The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/omar-encryption-project/firestore/indexes?create_composite=Cl5wcm9qZWN0cy9vbWFyLWVuY3J5cHRpb24tcHJvamVjdC9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvb3BlcmF0aW9uX2xvZ3MvaW5kZXhlcy9fEAEaBwoDdWlkEAEaDQoJdGltZXN0YW1wEAIaDAoIX19uYW1lX18QAg
+2026-02-20 18:38:00 - EncryptionTool - INFO - Operation: encrypt | Status: Success | Duration: 0.91s | IP: 127.0.0.1
+2026-02-20 18:38:01 - EncryptionTool - ERROR - خطأ في جلب السجل: 400 The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/omar-encryption-project/firestore/indexes?create_composite=Cl5wcm9qZWN0cy9vbWFyLWVuY3J5cHRpb24tcHJvamVjdC9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvb3BlcmF0aW9uX2xvZ3MvaW5kZXhlcy9fEAEaBwoDdWlkEAEaDQoJdGltZXN0YW1wEAIaDAoIX19uYW1lX18QAg
+2026-02-20 19:51:17 - EncryptionTool - INFO - Operation: encrypt | Status: Success | Duration: 0.00s | IP: 127.0.0.1
+2026-03-16 09:35:55 - EncryptionTool - ERROR - خطأ في upload_encrypt: 400 Document 'projects/omar-encryption-project/databases/(default)/documents/encrypted_files/Kixkrn8F6THOlMgyXxK0' cannot be written because its size (1,802,706 bytes) exceeds the maximum allowed size of 1,048,576 bytes.
+2026-03-16 09:36:21 - EncryptionTool - ERROR - خطأ في upload_encrypt: 400 Document 'projects/omar-encryption-project/databases/(default)/documents/encrypted_files/ICm0I67pPiQLmwsoo8gu' cannot be written because its size (1,802,706 bytes) exceeds the maximum allowed size of 1,048,576 bytes.
+2026-04-26 00:14:29 - EncryptionTool - INFO - 📥 upload_encrypt: طلب جديد من UP9IVetpO7WqyiRIFhhqCIkHUAk2
+2026-04-26 00:14:29 - EncryptionTool - INFO - upload_encrypt: الملف = Chapter_2_Requirements.pdf
+2026-04-26 00:14:29 - EncryptionTool - INFO - upload_encrypt: حجم الملف = 183206 bytes
+2026-04-26 00:14:29 - EncryptionTool - ERROR - upload_encrypt: مفتاح التشفير غير موجود للمستخدم UP9IVetpO7WqyiRIFhhqCIkHUAk2
+2026-04-26 00:15:05 - EncryptionTool - INFO - 📥 upload_encrypt: طلب جديد من UP9IVetpO7WqyiRIFhhqCIkHUAk2
+2026-04-26 00:15:05 - EncryptionTool - INFO - upload_encrypt: الملف = Chapter_2_Requirements.pdf
+2026-04-26 00:15:05 - EncryptionTool - INFO - upload_encrypt: حجم الملف = 183206 bytes
+2026-04-26 00:15:05 - EncryptionTool - ERROR - upload_encrypt: مفتاح التشفير غير موجود للمستخدم UP9IVetpO7WqyiRIFhhqCIkHUAk2
+2026-04-26 00:16:12 - EncryptionTool - INFO - 📥 upload_encrypt: طلب جديد من UP9IVetpO7WqyiRIFhhqCIkHUAk2
+2026-04-26 00:16:12 - EncryptionTool - INFO - upload_encrypt: الملف = Chapter_2_Requirements.pdf
+2026-04-26 00:16:12 - EncryptionTool - INFO - upload_encrypt: حجم الملف = 183206 bytes
+2026-04-26 00:16:13 - EncryptionTool - ERROR - upload_encrypt: مفتاح التشفير غير موجود للمستخدم UP9IVetpO7WqyiRIFhhqCIkHUAk2
+2026-04-26 00:18:33 - EncryptionTool - INFO - 📥 upload_encrypt: طلب جديد من UP9IVetpO7WqyiRIFhhqCIkHUAk2
+2026-04-26 00:18:33 - EncryptionTool - INFO - upload_encrypt: الملف = Chapter_2_Requirements.pdf
+2026-04-26 00:18:34 - EncryptionTool - INFO - upload_encrypt: حجم الملف = 183206 bytes
+2026-04-26 00:18:34 - EncryptionTool - ERROR - upload_encrypt: مفتاح التشفير غير موجود للمستخدم UP9IVetpO7WqyiRIFhhqCIkHUAk2
+2026-04-26 00:26:47 - EncryptionTool - INFO - 📥 upload_encrypt: طلب جديد من UP9IVetpO7WqyiRIFhhqCIkHUAk2
+2026-04-26 00:26:47 - EncryptionTool - INFO - upload_encrypt: الملف = Chapter_2_Requirements.pdf
+2026-04-26 00:26:47 - EncryptionTool - INFO - upload_encrypt: حجم الملف = 183206 bytes
+2026-04-26 00:26:47 - EncryptionTool - INFO - upload_encrypt: تم التشفير بنجاح
+2026-04-26 00:26:54 - EncryptionTool - INFO - upload_encrypt: تم الرفع على Cloudinary
+2026-04-26 00:26:54 - EncryptionTool - INFO - upload_encrypt: تم حفظ الـ metadata في Firestore
+2026-04-26 00:26:55 - EncryptionTool - INFO - upload_encrypt: ✅ إرجاع الملف المشفر: Chapter_2_Requirements.pdf.enc
+2026-04-26 00:27:25 - EncryptionTool - INFO - 📥 upload_encrypt: طلب جديد من oIw6wTnFVmSCZakS4Y8EoiiL91d2
+2026-04-26 00:27:25 - EncryptionTool - INFO - upload_encrypt: الملف = Chapter_2_Requirements.pdf
+2026-04-26 00:27:25 - EncryptionTool - INFO - upload_encrypt: حجم الملف = 183206 bytes
+2026-04-26 00:27:25 - EncryptionTool - INFO - upload_encrypt: تم التشفير بنجاح
+2026-04-26 00:27:27 - EncryptionTool - INFO - upload_encrypt: تم الرفع على Cloudinary
+2026-04-26 00:27:27 - EncryptionTool - INFO - upload_encrypt: تم حفظ الـ metadata في Firestore
+2026-04-26 00:27:27 - EncryptionTool - INFO - upload_encrypt: ✅ إرجاع الملف المشفر: Chapter_2_Requirements.pdf.enc
+2026-04-29 15:04:35 - EncryptionTool - INFO - 📥 upload_encrypt: طلب جديد من LmVWHWRoiJbw7DvETSvDsCBrvq52
+2026-04-29 15:04:35 - EncryptionTool - INFO - upload_encrypt: الملف = 2.PNG
+2026-04-29 15:04:35 - EncryptionTool - INFO - upload_encrypt: حجم الملف = 60115 bytes
+2026-04-29 15:04:35 - EncryptionTool - INFO - upload_encrypt: تم التشفير بنجاح
+2026-04-29 15:04:40 - EncryptionTool - INFO - upload_encrypt: تم الرفع على Cloudinary
+2026-04-29 15:04:40 - EncryptionTool - INFO - upload_encrypt: تم حفظ الـ metadata في Firestore
+2026-04-29 15:04:41 - EncryptionTool - INFO - upload_encrypt: ✅ إرجاع الملف المشفر: 2.PNG.enc
+2026-04-29 15:47:17 - EncryptionTool - INFO - 📥 upload_encrypt: طلب جديد من QtgQhpoQd6TU5PU7ULP2byOzTly2
+2026-04-29 15:47:17 - EncryptionTool - INFO - upload_encrypt: الملف = SecureLab_Report_scan_dNouADUWSVRVtYPEiqh8q02iBHJ2_1777350133.pdf
+2026-04-29 15:47:17 - EncryptionTool - INFO - upload_encrypt: حجم الملف = 20600 bytes
+2026-04-29 15:47:17 - EncryptionTool - INFO - upload_encrypt: تم التشفير بنجاح
+2026-04-29 15:47:22 - EncryptionTool - INFO - upload_encrypt: تم الرفع على Cloudinary
+2026-04-29 15:47:23 - EncryptionTool - INFO - upload_encrypt: تم حفظ الـ metadata في Firestore
+2026-04-29 15:47:23 - EncryptionTool - INFO - upload_encrypt: ✅ إرجاع الملف المشفر: SecureLab_Report_scan_dNouADUWSVRVtYPEiqh8q02iBHJ2_1777350133.pdf.enc
+2026-04-29 19:47:14 - EncryptionTool - INFO - 📥 upload_encrypt: طلب جديد من QtgQhpoQd6TU5PU7ULP2byOzTly2
+2026-04-29 19:47:14 - EncryptionTool - INFO - upload_encrypt: الملف = Screenshot_2026-02-19_184430.png
+2026-04-29 19:47:14 - EncryptionTool - INFO - upload_encrypt: حجم الملف = 300657 bytes
+2026-04-29 19:47:14 - EncryptionTool - INFO - upload_encrypt: تم التشفير بنجاح
+2026-04-29 19:47:14 - EncryptionTool - WARNING - upload_encrypt: Cloudinary غير متاح — Cloudinary غير مهيأ — تأكد من CLOUDINARY_CLOUD_NAME في .env
+2026-04-29 19:47:15 - EncryptionTool - INFO - upload_encrypt: ✅ إرجاع الملف المشفر: Screenshot_2026-02-19_184430.png.enc
+2026-04-29 19:52:14 - EncryptionTool - INFO - 📥 upload_encrypt: طلب جديد من QtgQhpoQd6TU5PU7ULP2byOzTly2
+2026-04-29 19:52:14 - EncryptionTool - INFO - upload_encrypt: الملف = Screenshot_2026-02-19_184304.png
+2026-04-29 19:52:14 - EncryptionTool - INFO - upload_encrypt: حجم الملف = 977777 bytes
+2026-04-29 19:52:15 - EncryptionTool - INFO - upload_encrypt: تم التشفير بنجاح
+2026-04-29 19:52:15 - EncryptionTool - WARNING - upload_encrypt: Cloudinary غير متاح — Cloudinary غير مهيأ — تأكد من CLOUDINARY_CLOUD_NAME في .env
+2026-04-29 19:52:15 - EncryptionTool - INFO - upload_encrypt: ✅ إرجاع الملف المشفر: Screenshot_2026-02-19_184304.png.enc
